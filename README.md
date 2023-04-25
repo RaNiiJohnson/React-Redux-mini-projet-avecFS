@@ -1,14 +1,9 @@
-# Cours Redux
-
-- INSTALLER REDUX \*
-  `npm i -s redux react-redux @reduxjs/toolkit @redux-devtools/extension`  
-  Télécharger Redux DevTools sur google
-
-1- Provider qui englobe l'app  
-2- Création store  
-3- Création reducers  
-4- Création actions
+# Redux
 
 - JSON-SERVER \*  
   npm i -g json-server  
   "json-server --w db.json" || "npm run server"
+
+1- npm install
+2- npm run server
+3- npm start
